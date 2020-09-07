@@ -56,6 +56,9 @@
 			<Add library="comdlg32" />
 			<Add directory="C:/SFML_MinGW/lib" />
 		</Linker>
+		<Unit filename="codeblocks/resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
 		<Unit filename="cpp/app_src/activity/GameActivity.h" />
 		<Unit filename="cpp/app_src/activity/SwooshFiles.h" />
 		<Unit filename="cpp/app_src/config/GameConfig.h" />
