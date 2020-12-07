@@ -1,4 +1,4 @@
-# is::Engine TMX Loader
+# is::Engine 3.0 TMX Loader
 This project shows you how to use the TMX Loader library with the game engine.
 It incorporates the seven (7) examples that can be found on the official library [website](https://github.com/fallahn/sfml-tmxloader/tree/master/examples).
 In this project you will also discover:
